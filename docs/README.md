@@ -2,8 +2,14 @@
 ##### Account nam || Fack Account || 
 ## Please check your balances :
 
->  12234 || 12.34 Dolar
-
->  12345 || 34.65 centes
-
-||dd || dd|| 
+ > Account JohnDow123
+ 
+ || Transcation || Aount || Currency ||
+ | 123 | 10.00 | USD |
+ | 234 | 12.90 | USD |
+ 
+ > Acount JaneDee234
+ 
+  || Transcation || Aount || Currency ||
+ | 345 | 12.00 | NIS |
+ | 567 | 12.90 | USD |
